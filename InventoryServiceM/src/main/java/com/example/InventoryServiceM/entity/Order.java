@@ -14,8 +14,7 @@ public class Order {
     private String name;
     private int qty;
     private double price;
+    private String productId;
 
-    public void setOrderId(String string) {
-        this.orderId=string;
-    }
+
 }
